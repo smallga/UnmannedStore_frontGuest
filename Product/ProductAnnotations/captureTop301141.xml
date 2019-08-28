@@ -1,0 +1,26 @@
+<annotation>
+	<folder>capture3</folder>
+	<filename>captureTop301141.jpg</filename>
+	<path>C:\Users\briansuen\Desktop\無人商店\camearaTop\capture3\captureTop301141.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>960</width>
+		<height>544</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>buzz</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>87</xmin>
+			<ymin>108</ymin>
+			<xmax>175</xmax>
+			<ymax>182</ymax>
+		</bndbox>
+	</object>
+</annotation>

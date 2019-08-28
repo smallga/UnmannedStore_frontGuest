@@ -1,0 +1,26 @@
+<annotation>
+	<folder>capture3</folder>
+	<filename>captureTop302241.jpg</filename>
+	<path>C:\Users\briansuen\Desktop\無人商店\camearaTop\capture3\captureTop302241.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>960</width>
+		<height>544</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pig</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>240</xmin>
+			<ymin>119</ymin>
+			<xmax>342</xmax>
+			<ymax>212</ymax>
+		</bndbox>
+	</object>
+</annotation>
