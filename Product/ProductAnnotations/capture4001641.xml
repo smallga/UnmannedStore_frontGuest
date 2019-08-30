@@ -1,0 +1,26 @@
+<annotation>
+	<folder>capture4</folder>
+	<filename>capture4001641.jpg</filename>
+	<path>C:\Users\briansuen\Desktop\無人商店\camearaTop\capture4\capture4001641.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>960</width>
+		<height>544</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>goofy</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>102</xmin>
+			<ymin>193</ymin>
+			<xmax>327</xmax>
+			<ymax>408</ymax>
+		</bndbox>
+	</object>
+</annotation>
