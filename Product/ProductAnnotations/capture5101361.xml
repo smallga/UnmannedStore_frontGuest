@@ -1,0 +1,26 @@
+<annotation>
+	<folder>capture5</folder>
+	<filename>capture5101361.jpg</filename>
+	<path>C:\Users\briansuen\Desktop\無人商店\camearaTop\capture5\capture5101361.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>960</width>
+		<height>544</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>horse</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>274</xmin>
+			<ymin>84</ymin>
+			<xmax>371</xmax>
+			<ymax>214</ymax>
+		</bndbox>
+	</object>
+</annotation>
